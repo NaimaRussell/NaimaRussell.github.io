@@ -11,12 +11,12 @@ h1 {
 	}
 
 a {
-    	color: red;
+    	color: white;
     	font-family: 'Dancing Script', cursive;
-    	font-size: 24px;
+    	font-size: 20px;
     	text-decoration: none;
 	}
 
 a:hover{
-  	color: green;
+  	color: pink;
 	}
